@@ -1,0 +1,18 @@
+Hello,
+
+
+To configure the program, simply go to:
+
+    include / config.inc.asp
+
+Admin part: directory_name / admin
+
+   Login: admin
+   Password: pass
+
+Test account:
+
+   Login: alic
+   Password: pass
+
+My best regards.

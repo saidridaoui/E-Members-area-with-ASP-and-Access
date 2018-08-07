@@ -1,0 +1,17 @@
+<SCRIPT LANGUAGE=VBScript RUNAT=Server>
+   SUB Application_OnStart
+      Application("online") = 0
+   END SUB
+
+   SUB Session_OnStart
+      Application.Lock
+      Application("online") = Application("online") + 1
+      Application.Unlock
+   END SUB
+
+   SUB Session_OnEnd
+      Application.Lock
+      Application("online") = Application("online") - 1
+      Application.Unlock
+   END SUB
+</SCRIPT>

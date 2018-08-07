@@ -1,0 +1,55 @@
+body,td,th {
+	font-family: Trebuchet MS;
+	font-size: 12px;
+	color: #000000;
+}
+
+.header {
+	BACKGROUND-COLOR: transparent; COLOR: white; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.fulltext {
+	
+}
+
+.vertical {
+	BACKGROUND-COLOR: #999999; BACKGROUND-IMAGE: url(images/vertical.gif)
+}
+
+.leftcol {
+	BACKGROUND-COLOR: #053561; COLOR: white; FONT-SIZE: 11px
+}
+.rightcol {
+	BACKGROUND-COLOR: transparent
+}
+
+.boxcontent {
+	BACKGROUND-COLOR: white; COLOR: #000000; FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+
+.title {
+	COLOR: #000000; FONT-FAMILY: Trebuchet MS; FONT-SIZE: 120%; FONT-WEIGHT: bold
+}
+.boxtitleBG {
+	BACKGROUND-COLOR: #dcdcdc
+}
+.boxtitle {
+	COLOR: #000000; FONT-FAMILY: Trebuchet MS; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-LEFT: 5px; PADDING-TOP: 1px; TEXT-ALIGN: left; TEXT-TRANSFORM: uppercase
+}
+A:visited {
+	BACKGROUND-COLOR: transparent; COLOR: navy; TEXT-DECORATION: none
+}
+A:link {
+	BACKGROUND-COLOR: transparent; COLOR: navy; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: navy; TEXT-DECORATION: underline
+}
+A:active {
+	BACKGROUND-COLOR: transparent; COLOR: black; TEXT-DECORATION: none
+}
+
+STRONG {
+	FONT-STYLE: italic; FONT-WEIGHT: bold
+}
+
+
